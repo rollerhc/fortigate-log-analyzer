@@ -1,0 +1,29 @@
+{
+  "overrides": {
+    "YouTube": "Streaming",
+    "Netflix": "Streaming",
+    "TikTok": "Social",
+    "Instagram": "Social",
+    "Facebook": "Social",
+    "Teams": "Business",
+    "Outlook": "Business",
+    "SharePoint": "Business",
+    "OneDrive": "Business",
+    "Windows.Update": "Infra",
+    "iCloud": "Infra",
+    "Google.Services": "Infra",
+    "Tor": "Risk",
+    "BitTorrent": "Risk",
+    "Psiphon": "Risk"
+  },
+  "fallback": {
+    "Video/Audio": "Streaming",
+    "Social.Media": "Social",
+    "Email": "Business",
+    "Collaboration": "Business",
+    "Cloud.IT": "Infra",
+    "Storage.Backup": "Infra",
+    "Network.Service": "Infra",
+    "General.Interest": "Other"
+  }
+}
